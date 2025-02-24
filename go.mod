@@ -1,4 +1,4 @@
-module go-module
+module github.com/ngocbipnguyen/go-module
 
 go 1.24.0
 
